@@ -1,6 +1,6 @@
 {
-  "id": "obsidian-vue-sample-plugin",
-  "name": "Vue Sample Plugin",
+  "id": "attachments-binds",
+  "name": "attachments-binds",
   "version": "1.0.0",
   "minAppVersion": "0.9.12",
   "description": "This is a Vue sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
