@@ -74,9 +74,6 @@ export default class AttachmentsBindsPlugin extends Plugin {
                            handleAttMap.set(item_name,handleAttPath);
                         }
                     });
-
-                    //修改笔记中附件的引用地址
-
                 });
             }
             
